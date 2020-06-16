@@ -1,0 +1,8 @@
+package com.NumberPlateDetection.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class LoginController {
+
+}
